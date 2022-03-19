@@ -32,19 +32,33 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
-Nos han asignado el Hostel Carlota Braun, el cual es un hostel muy céntrico de Granada, con espectaculos semanales y con habitaciones para grupos. Como competencia, hemos buscado un hostel en Florencia, otra ciudad muy turística europea, y otro en pleno centro de Bilbao.
-![alt text](img/CompetitiveAnalysis.PNG)
+Nos han asignado el Hostel Carlota Braun, el cual es un hostel muy céntrico de Granada, con espectaculos semanales y con habitaciones para grupos. Como competencia,
+hemos buscado un hostel en Florencia, otra ciudad muy turística europea, y otro en pleno centro de Bilbao.
+![Análisis Competitivo](img/CompetitiveAnalysis.PNG)
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+**Gonzalo Sanz Nieto:**
+Hemos elegido a esta persona porque es un cliente potencial y tendría pocos problemas para conseguir alojarse en el hostel. Además es el alojamiento más adecuado para el tipo de viaje que suele realizar con sus amigos.
+
+![Persona Gonzalo](img/gonzalo.PNG)
+
+**Jennifer Wilson:**
+Hemos elegido a esta persona porque es un cliente potencial, ya que suele viajar por el mundo y está acostumbrada. Es una mujer que adora hacer turismo. Nos ha parecido interesante ya que queríamos tener a alguien que adore viajar.
+
+![Persona Jennifer](img/jennifer.PNG)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+La primera experiencia que hemos escogido es la de un joven universitario que vive con sus padres y que se va de viaje con su grupo de amigos. Es una experiencia muy real, ya que es el público objetivo de los hostels.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![Journey Gonzalo](img/journeyGonzalo.PNG)
+
+La segunda experiencia que hemos escogido es la de una mujer extranjera que viaja por el mundo. Está acostumbrada a este tipo de sitios, pero se va a encontrar con que no puede reservar una sola cama, sino una habitación entera. Eso hará que la experiencia sea realista, ya que no es un hostel para todo tipo de clientes.
+
+![Journey Jennifer](img/journeyJennifer.PNG)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
