@@ -63,12 +63,12 @@ La segunda experiencia que hemos escogido es la de una mujer extranjera que viaj
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-**Enlaces a las valoraciones de usabilidad (Usability Reviews):**
-[Carlota-Braun-Usability-review.pdf](https://github.com/AaronPorcel/DIU/blob/master/P1/Carlota-Braun-Usability-review.pdf)
+**Enlaces a las valoraciones de usabilidad (Usability Reviews):**  
+[Carlota-Braun-Usability-review.pdf](https://github.com/AaronPorcel/DIU/blob/master/P1/Carlota-Braun-Usability-review.pdf)  
 [Carlota-Braun-Usability-review.xlsx](https://github.com/AaronPorcel/DIU/blob/master/P1/Carlota-Braun-Usability-review.xlsx)
-
-**Valoración final:** 66
-**Comentario sobre la valoración:** 
+  
+**Valoración final:** 66  
+**Comentario sobre la valoración:**  
 La página está bien diseñada pero no tiene una buena estructura y los tiempos de carga, aunque no son molestos, interrumpen la experiencia. La búsqueda es muy sencilla y solo sirve para los eventos, además no ofrece ninguna ayuda a los usuarios. 
 
 ## Paso 2. UX Design  
