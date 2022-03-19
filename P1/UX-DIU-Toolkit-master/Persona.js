@@ -17,9 +17,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU2.HichAaron";
         $scope.Curso ="2021/22";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/AaronPorcel/DIU";
         
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
@@ -33,36 +33,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Name: "Gonzalo Sanz Nieto",
+				Photo: "gonzalo.jpg",
+				Quote: "Hay que saber disfrutar sin pasarse",
+				Age: 20,
+				Occupation: "Estudiante de Matemáticas",
+				Family: "Vive con sus padres y hermano menor, y tiene pareja.",
+				Location: "Madrid (Chamartín)",
+				Character: "Le gusta cuidarse.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Disfrutar la vida universitaria antes de terminar la carrera", "Conocer otras culturas y tradiciones"],
+				Frustrations: ["A su pareja no le gusta viajar, y no suele acompañarle", "Le gustaría tener más tiempo libre y hacer más deporte"],
+				Bio: "Es de Madrid, se crió en Ciudad Jardín y sigue viviendo con sus padres. Es un estudiante sobresaliente y le gusta descubrir nuevas cosas. Tiene un grupos de amigos desde el instituto con el que hace viajes ocasionalmente. Conoció a su novia en la facultad.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
+					{ Name: "TIC/Internet", Value: 5 },
+					{ Name: "Movil", Value: 5 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Se acerca Semana Santa. Había visitado a Granada con sus padres y ahora quiere volver con su grupo de amigos.",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Recomendaciones & sugerencias", Value: 3 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
@@ -74,34 +74,34 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
-				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Name: "Jennifer Wilson",
+				Photo: "jennifer.jpg",
+				Quote: "El planeta es muy grande, hay que descubrirlo",
+				Age: 29,
+				Occupation: "Fotógrafa",
+				Family: "Su padres y hermana viven en Australia",
+				Location: "Australia (Hobart)",
+				Character: "Le fascina enseñar el mundo a través de sus fotografías.",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 5 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Mostrar  lo grande y bello que es el mundo.", "Aprender de otras culturas.", "Crear una familia."],
+				Frustrations: ["No encontrar la pareja adecuada.", "Solo sabe inglés.", "Viaja sola."],
+				Bio: "Nació en Hobart, tiene una hermana mayor y vive con sus padres. Después del instituto estudió periodismo, y tras terminar la carrera, inició un blog en el que publica todos los viajes que ha realizado desde entonces. Ha tenido varias parejas pero al viajar mucho no han sido estables. Le gustaría encontrar una pareja que viajase con ella, y que trás recorrer el mundo formasen una familia juntos.",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
+					{ Name: "TIC/Internet", Value: 3 },
+					{ Name: "Mobile", Value: 4 },
+					{ Name: "RRSS", Value: 5 },
 					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos: "Está haciendo un viaje por el sur de europa y una de las ciudades que tiene en el itinerario es Granada." ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
+					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
+					{ Name: "Online & Social Media", Value: 5 },
 					{ Name: "Recomendaciones & sugerencias", Value: 2 },
 					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
 				]
