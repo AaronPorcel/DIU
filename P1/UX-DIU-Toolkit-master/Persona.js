@@ -49,7 +49,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Disfrutar la vida universitaria antes de terminar la carrera", "Conocer otras culturas y tradiciones"],
 				Frustrations: ["A su pareja no le gusta viajar, y no suele acompañarle", "Le gustaría tener más tiempo libre y hacer más deporte"],
-				Bio: "Es de Madrid, se crió en Ciudad Jardín y sigue viviendo con sus padres. Es un estudiante sobresaliente y le gusta descubrir nuevas cosas. Tiene un grupos de amigos desde el instituto con el que hace viajes ocasionalmente. Conoció a su novia en la facultad.",
+				Bio: "Es de Madrid, se crió en Ciudad Jardín y sigue viviendo con sus padres. Es un estudiante sobresaliente y le gusta descubrir nuevas cosas. Tiene un grupo de amigos desde el instituto con el que hace viajes ocasionalmente. Conoció a su novia en la facultad.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Movil", Value: 5 },
@@ -57,7 +57,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos: "Se acerca Semana Santa. Había visitado a Granada con sus padres y ahora quiere volver con su grupo de amigos.",  
+                Contextos: "Se acerca Semana Santa. Había visitado Granada con sus padres y ahora quiere volver con su grupo de amigos.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 3 },
@@ -90,7 +90,7 @@ angular.module("angular", [])
 				], 
 				Goals: ["Mostrar  lo grande y bello que es el mundo.", "Aprender de otras culturas.", "Crear una familia."],
 				Frustrations: ["No encontrar la pareja adecuada.", "Solo sabe inglés.", "Viaja sola."],
-				Bio: "Nació en Hobart, tiene una hermana mayor y vive con sus padres. Después del instituto estudió periodismo, y tras terminar la carrera, inició un blog en el que publica todos los viajes que ha realizado desde entonces. Ha tenido varias parejas pero al viajar mucho no han sido estables. Le gustaría encontrar una pareja que viajase con ella, y que trás recorrer el mundo formasen una familia juntos.",
+				Bio: "Nació en Hobart, tiene una hermana mayor y vive con sus padres. Después del instituto estudió periodismo, y tras terminar la carrera, inició un blog en el que publica todos los viajes que ha realizado desde entonces. Ha tenido varias parejas pero al viajar mucho no han sido estables. Le gustaría encontrar una pareja que viajase con ella, y que tras recorrer el mundo formasen una familia juntos.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Mobile", Value: 4 },

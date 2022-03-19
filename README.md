@@ -1,7 +1,7 @@
 # DIU22
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
-Grupo: DIU2.HichAaron.  Curso: 2022/23 
+Grupo: DIU2.HichAaron.  Curso: 2021/22 
 Updated: 13/03/2022
 
 Proyecto: 
@@ -34,7 +34,7 @@ Miembros
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 Nos han asignado el Hostel Carlota Braun, el cual es un hostel muy céntrico de Granada, con espectaculos semanales y con habitaciones para grupos. Como competencia, hemos buscado un hostel en Florencia, otra ciudad muy turística europea, y otro en pleno centro de Bilbao.
-
+(img/CompetitiveAnalysis.PNG)
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
