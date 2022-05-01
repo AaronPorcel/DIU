@@ -68,52 +68,51 @@ La página está bien diseñada pero no tiene una buena estructura y los tiempos
 
 ## Paso 2. UX Design  
 
+Nuestro proyecto se denomina Carlota Braun Concerts, una submarca del hostel que se encargará de añadir valor a los espectáculos musicales, convirtiéndolos en grandes conciertos con artistas famosos. Estos se realizan en el propio hostel y cualquier persona podrá acceder pagando una entrada. Sin embargo, los clientes del hostel tendrán entrada incluida en el alojamiento. Esto incrementará el número de clientes y ayudará a obtener beneficios en temporada baja de turistas.
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / Empathy map / POV
 ----
 
+**Empathy Map:**
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+![Empathy Map](img/empathy.PNG)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Propuesta de valor](img/propuestavalor.PNG) 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+![Task Analysis](img/taskanalysis.PNG) 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+**Sitemap:**
 
->>> Identificar términos para diálogo con usuario  
+![Sitemap](img/map.PNG) 
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+**Labelling:**
 
+![Labelling](img/label.PNG) 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+**Página Principal (index.html):**
 
+![Página Principal](img/index.PNG) 
+
+**Información de Concierto (info.html):**
+
+![Información de Concierto](img/info.PNG) 
+
+**Comprar Entrada (buy.html):**
+
+![Comprar Entrada](img/buy.PNG) 
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
