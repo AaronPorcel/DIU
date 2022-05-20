@@ -142,41 +142,99 @@ El diseño de la página es atractivo con colores que contrastan y mantienen la 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+En este apartado comentaremos el estilo visual de los componentes de la página web, así como el diseño de esta.
+
+
+
+### Logotipo:
+
+![Logo](img/logo_final.png)
+
+Para el logotipo nos hemos basado en el de la página principal para no perder la relación entre ambos sitios web. La diferencia que hay es que mientras en el logotipo original debajo de “Carlota Braun” y la imagen de la chica pone “music bar & hostel”, en el nuevo logotipo ponemos “concerts” con una tipografía diferente.
+
+
+
+### Paleta de colores:
+
+![Paleta](img/paleta.png)
+
+Para la paleta de colores se han escogido un conjunto de colores monocromáticos, que es el negro y la escala de grises, y otros dos colores complementarios entre sí y con el conjunto monocromático, que son el rojo y el blanco. En cuanto a rojo se usa para resaltar los elementos más importantes, por ejemplo los botones de compra y reserva. Es un color llamativo e impulsivo ideal para estos aspectos. El blanco se usa como fondo para transmitir limpieza, sencillez y calidad. Finalmente el negro y los diferentes tonos de grises se usan para el logotipo y las cabeceras.
+
+
+
+### Tipografía:
+
+Para facilitar la lectura y captar la atención de los usuarios hemos escogido las tres siguientes tipografías:
+
+![Caveat](img/caveat.png)
+
+- Caveat para el título y el logotipo. Sus curvas y diseño aportan un relajación y despreocupación, apropiada para nuestra temática.
+
+![Montserrat](img/montserrat.png)
+
+- Montserrat para el texto. Diseño ideal para el texto, simple y sencillo apropiado para la lectura.
+
+![Open Sans](img/opensans.png)
+
+- Open Sans para los botones. También tiene un estilo simple y sencillo para transmitir seriedad y claridad a la hora de tomar decisiones (botones reserva, compra, etc).
+
+
+
+### Patrones de diseño:
+
+- En el **header** hemos incluido el logotipo y enlaces a los sitios más importantes. Este patrón es estático, es decir se mantiene en el resto de páginas.
+
+- En la página principal debajo del body se presentan una serie de **cards** para ver el resto de conciertos, reservar mesa para cenar en directo e información con respecto al CBC Festival.  Este patrón no es estático, solamente se muestra en la página principal.
+
+#### Patrones dinámicos:
+
+- Body:
+
+- **Body página principal**: En el body del sitio web incluiremos los próximos conciertos junto con otra información de interés relacionada con estos. Aparte se incluye un botón para iniciar el proceso de compra del concierto.
+
+- **Body página del concierto**: Se muestra información y enlaces relacionados con el concierto, y un **sidebar** junto con los cantantes y enlaces a estos, y los comentarios. 
+
+- **Body sitio de conciertos**: Una lista de todos los conciertos con enlace para ir al sitio específico de cada uno.
+
+- **Body sitio de compra**: Se manifiestan diferentes **inputs** de datos de contacto y compra que hay que rellenar y un **sidebar** con el concierto y un **botón** para reservar mesa.
+
+- **Body información del artista o artistas**: Imagen del cantante o cantantes, una card en la que se incluye información de estos relacionada con su carrera musical y finalmente un botón que enlaza a los conciertos en los que va a actuar.
+
+
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-**Home**
+### Home
 
 ![Home](img/home.png) 
 
-**Comprar Entrada**
+### Comprar Entrada
 
 ![Comprar Entrada](img/comprar.png) 
 
-# Información del Concierto
+### Información del Concierto
 
 ![Información del Concierto](img/informacion.png) 
 
-**Información del Artista**
+### Información del Artista
 
 ![Información del Artista](img/artista.png) 
 
-**Conciertos**
+### Conciertos
 
 ![Conciertos](img/conciertos.png) 
 
-**Reservar Mesa**
+### Reservar Mesa
 
 ![Reservar Mesa](img/mesa.png) 
 
-**CBC Festival**
+### CBC Festival
 
 ![CBC Festival](img/festival.png) 
 
-**Simulación**
+### Simulación
 
 ![Simulación](img/resumen.gif) 
 
