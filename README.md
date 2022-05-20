@@ -209,10 +209,30 @@ Para facilitar la lectura y captar la atención de los usuarios hemos escogido l
 ### Home
 
 ![Home](img/home.png) 
+----
+----
+
+
+
+
+
 
 ### Comprar Entrada
 
 ![Comprar Entrada](img/comprar.png) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Información del Concierto
 
