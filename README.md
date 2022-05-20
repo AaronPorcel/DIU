@@ -5,14 +5,17 @@ Grupo: DIU2.HichAaron.  Curso: 2021/22
 Updated: 13/03/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+
+***Carlota Braun Concerts***
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro proyecto trata de una sub-marca del Carlota Braun Hostel que se centra en añadir valor a los espectáculos musicales. Con la aplicación será posible ver todo el repertorio de conciertos disponibles, conocer información sobre estos y los artistas, comprar entradas y reservar una mesa para cenar.
+
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+![Logo](img/logo_final.png)
 
 Miembros
  * :bust_in_silhouette:   Aarón Porcel Torres     :octocat:     
