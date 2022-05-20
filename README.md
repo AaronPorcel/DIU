@@ -211,49 +211,49 @@ Para facilitar la lectura y captar la atención de los usuarios hemos escogido l
 ![Home](img/home.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### Comprar Entrada
 
 ![Comprar Entrada](img/comprar.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### Información del Concierto
 
 ![Información del Concierto](img/informacion.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### Información del Artista
 
 ![Información del Artista](img/artista.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### Conciertos
 
 ![Conciertos](img/conciertos.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### Reservar Mesa
 
 ![Reservar Mesa](img/mesa.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### CBC Festival
 
 ![CBC Festival](img/festival.png) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 ### Simulación
 
