@@ -264,14 +264,14 @@ Para facilitar la lectura y captar la atención de los usuarios hemos escogido l
 ![Simulación](img/resumen.gif) 
 <br/><br/><br/>
 ---
-<br/><br/><br/>
+<br/><br/>
 
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
+Se publica nuestro Case Study en el archivo **readme.md** para que pueda ser estudiado por otras personas.
 
 ## Paso 4. Evaluación 
 
