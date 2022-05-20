@@ -178,7 +178,7 @@ El diseño de la página es atractivo con colores que contrastan y mantienen la 
 
 **Simulación**
 
-![Simulación](img/simulacion.gif) 
+![Simulación](img/resumen.gif) 
 
 
 
