@@ -156,7 +156,7 @@ El diseño de la página es atractivo con colores que contrastan y mantienen la 
 
 ![Comprar Entrada](img/comprar.png) 
 
-**Información del Concierto**
+#Información del Concierto
 
 ![Información del Concierto](img/informacion.png) 
 
