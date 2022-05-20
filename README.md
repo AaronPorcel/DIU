@@ -120,17 +120,24 @@ Nuestro proyecto se denomina Carlota Braun Concerts, una submarca del hostel que
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Inicialmente creamos un Moodboard para poder tener una idea general de nuestro diseño. En este incluimos unas imágenes inspiradoras, la tipografía y la paleta de colores que usaremos, y el logo de la página web.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+
+![Moodboard](img/mymoodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Diseñamos la landing page en la que esbozamos el objetivo del proyecto. En esta se mostrará:
+- En la cabecera un logotipo reconocible y las principales funciones del proyecto.
+- Como elemento principal se muestran los próximos conciertos junto con su información más relevante.
+- Y finalmente se muestran enlaces directos a las secciones que más pueden interesar al usuario.
 
->>> Plantear Landing Page 
+El diseño de la página es atractivo con colores que contrastan y mantienen la atención del cliente. La información y los elementos que pretendemos promocionar son fáciles de acceder mostrándose en la página principal. Es decir, el usuario no tiene que navegar por diferentes páginas para saber que es Carlota Braun Concerts y que ofrece.
+
+
+![Landing Page](img/landing.png) 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -141,7 +148,38 @@ Nuestro proyecto se denomina Carlota Braun Concerts, una submarca del hostel que
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+**Home**
+
+![Home](img/home.png) 
+
+**Comprar Entrada**
+
+![Comprar Entrada](img/comprar.png) 
+
+**Información del Concierto**
+
+![Información del Concierto](img/informacion.png) 
+
+**Información del Artista**
+
+![Información del Artista](img/artista.png) 
+
+**Conciertos**
+
+![Conciertos](img/conciertos.png) 
+
+**Reservar Mesa**
+
+![Reservar Mesa](img/mesa.png) 
+
+**CBC Festival**
+
+![CBC Festival](img/festival.png) 
+
+**Simulación**
+
+![Simulación](img/simulacion.gif) 
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
