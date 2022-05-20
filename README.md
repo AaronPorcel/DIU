@@ -171,7 +171,7 @@ Para facilitar la lectura y captar la atención de los usuarios hemos escogido l
 
 ![Caveat](img/caveat.png)
 
-- Caveat para el título y el logotipo. Sus curvas y diseño aportan un relajación y despreocupación, apropiada para nuestra temática.
+- Caveat para el título y el logotipo. Sus curvas y diseño aportan relajación y despreocupación, apropiada para nuestra temática.
 
 ![Montserrat](img/montserrat.png)
 
@@ -197,12 +197,13 @@ Para facilitar la lectura y captar la atención de los usuarios hemos escogido l
 
 - **Body página del concierto**: Se muestra información y enlaces relacionados con el concierto, y un **sidebar** junto con los cantantes y enlaces a estos, y los comentarios. 
 
-- **Body sitio de conciertos**: Una lista de todos los conciertos con enlace para ir al sitio específico de cada uno.
+- **Body sitio de conciertos**: Una lista de todos los conciertos con un enlace para ir al sitio específico de cada uno.
 
-- **Body sitio de compra**: Se manifiestan diferentes **inputs** de datos de contacto y compra que hay que rellenar y un **sidebar** con el concierto y un **botón** para reservar mesa.
+- **Body sitio de compra**: Encontramos diferentes **inputs** de datos de contacto y compra que hay que rellenar y un **sidebar** con el concierto y un **botón** para reservar mesa.
 
 - **Body información del artista o artistas**: Imagen del cantante o cantantes, una card en la que se incluye información de estos relacionada con su carrera musical y finalmente un botón que enlaza a los conciertos en los que va a actuar.
 
+- **Body sitio de reserva de mesa**: **Checkbox** para seleccionar el concierto en el que se desea reservar mesa, y para seleccionar la mesa. Debajo de los checkbox, hay **inputs** de datos de contacto y compra que hay que rellenar junto con un **botón** para realizar el pago.
 
 
 
@@ -270,9 +271,6 @@ Para facilitar la lectura y captar la atención de los usuarios hemos escogido l
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
 
 
 ## Paso 4. Evaluación 
