@@ -279,9 +279,9 @@ Se publica nuestro Case Study en el archivo **readme.md** para que pueda ser est
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+[Planada](https://github.com/dacal01/DIU) es una aplicación la cual permite buscar  rutas turísticas por toda la provincia de Granada organizadas por un staff, permite organizar planes de ocio y ofrece un servicio de propuestas para que los clientes puedan proponer actividades a realizar durante su estancia.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+Pero al usar la aplicación solo permite obtener una breve descripción de las posibles actividades que se pueden realizar. 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -289,55 +289,53 @@ Se publica nuestro Case Study en el archivo **readme.md** para que pueda ser est
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios  | Sexo/Edad | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | Puntuación SUS |
+| --------- | --------- | ----------- | ----------- | -----------  | ---------- | ------- | -------------- |
+| Juan      | H / 73    | Jubilado    | Baja       | Disfruta con sus nietos y del tiempo libre pero se cabrea fácilmente | Movil Android       | B    |  92.5 |
+| Tiana     | M / 20    | Estudiante  | Alta       | Es muy sociable y le encanta sorprenderse con nuevas amistades       | Web Escritorio Windows       | A  |  72.5 |
+| Rosa      | M / 35    | Profesora de Yoga     | Media        | Es feliz sin estar en internet constantemente a internet y le gusta disfrutar de la naturaleza    | Móvil Android      | B  |  75 |
+| Francisco | H / 52    | Empresario  | Alta       | Es poco flexible y le gusta que las cosas estén planificadas     |Web Escritorio Mac   | A  |  67.5 |
+
+
+Hemos elegido estos personajes al azar tirando los tres dados (tipo, actividad y emoción) y los hemos completado con una personalidad:
+- Juan (2,6,1): Es un abuelo jubilado que le gusta pasar tiempo con su familia, no tiene muchos conocimientos sobre nuevas tecnologías, por lo que cuanto más simple y claro sean los servicios que utiliza, menos cabreado y frustrado estará.
+- Tiana (3,2,4): Es una estudiante erasmus de Traducción, tiene un perfil sociable, le encanta hacer nuevos amigos y maneja muy bien las tecnologías.
+- Rosa (1,3,3): Es una profesora de yoga, le gusta la naturaleza, estar desconectada de internet, y usa aparatos tecnológicos solo en caso de necesidad.
+- Francisco (4,4,5): Es un empresario, tiene poco tiempo libre y le gusta que las cosas salgan según lo planificado. Tiene un nivel alto de uso de tecnología.
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Cuestionario SUS](img/sus.png)
+
+Tras realizar un System Usability Scale Test (SUS) con los usuarios, hemos llegado a las siguientes conclusiones:
+Los usuarios parecen preferir la aplicación de Carlota Braun por el mero hecho de que tiene varias funciones, y que es una aplicación muy sencilla de usar.
+Por el contrario, y aunque la aplicación de Planada también es sencilla de usar, no tiene ninguna función.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+### Enlace
+Enlace al Usability Report: [Usability Report](P4/DIU_report-template-usability-test_1.docx.pdf)
 
+### Valoración personal
+La aplicación no ofrece ninguna funcionalidad más allá de una descripción sobre las distintas actividades. No se puede consultar más información ni reservar actividades, tampoco podemos hacer login ni está adaptado para personas con discapacidad. Consideramos que con añadir unas mínimas funciones sería mucho más aceptada por los usuarios, pero con el estado actual, sólo añade más información.
 
-
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
+La realización de las prácticas de esta asignatura y en general haberla cursado nos ha enseñado que el dicho “lo que importa es el interior” no siempre es verdad. A veces centrarse tanto en el funcionamiento interno puede resultar en una interfaz deteriorada, inmanejable y poco comprensible que hace que sea tedioso el uso de una aplicación. 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Hemos aprendido los puntos esenciales  para realizar un correcto diseño de una interfaz. Como el tener una vista objetiva a la hora del diseño, atendiendo a diferentes grupos de usuarios totalmente distinto y siendo más autocríticos; y sobre todo considerar que una interfaz es el primer utensilio con el que se encuentra un usuario a interactuar con un sistema, o mejor dicho es la herramienta que nos permite usar el sistema, y por lo tanto debe ser adecuada y la experiencia al interactuar con esta debe ser agradable para que el usuario vuelva a usarla.
+
+Otras tareas nos han enseñado que los pequeños detalles son los que marcan la diferencia, como por ejemplo la simple combinación de colores, el uso de widgets adecuados, el orden y los espacios, etc. Son puntos que a primera vista no son importantes pero  hacen que un usuario diga “me gusta esta app, pero no sé por qué”. 
+
+Concluimos diciendo que nos sentimos satisfechos con los resultados obtenidos y nos marchamos con la sensación de que claramente podemos usar lo aprendido en nuestro futuro profesional. 
 
 
 
