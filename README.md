@@ -317,7 +317,7 @@ Por el contrario, y aunque la aplicación de Planada también es sencilla de usa
 ----
 
 ### Enlace
-Enlace al Usability Report: [Usability Report](P4/DIU_report-template-usability-test_1.docx.pdf)
+Enlace al Usability Report: [Usability Report](P4/P4_UsabReport_Planada_doneby_DIU2.7_HichAaron.pdf)
 
 ### Valoración personal
 La aplicación no ofrece ninguna funcionalidad más allá de una descripción sobre las distintas actividades. No se puede consultar más información ni reservar actividades, tampoco podemos hacer login ni está adaptado para personas con discapacidad. Consideramos que con añadir unas mínimas funciones sería mucho más aceptada por los usuarios, pero con el estado actual, sólo añade más información.
