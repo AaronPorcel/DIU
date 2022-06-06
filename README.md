@@ -286,8 +286,6 @@ Pero al usar la aplicación solo permite obtener una breve descripción de las p
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
 
 | Usuarios  | Sexo/Edad | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B | Puntuación SUS |
 | --------- | --------- | ----------- | ----------- | -----------  | ---------- | ------- | -------------- |
@@ -310,8 +308,8 @@ Hemos elegido estos personajes al azar tirando los tres dados (tipo, actividad y
 
 ![Cuestionario SUS](img/sus.png)
 
-Tras realizar un System Usability Scale Test (SUS) con los usuarios, hemos llegado a las siguientes conclusiones:
-Los usuarios parecen preferir la aplicación de Carlota Braun por el mero hecho de que tiene varias funciones, y que es una aplicación muy sencilla de usar.
+Tras realizar un System Usability Scale Test (SUS) con los usuarios, hemos llegado a las siguientes conclusiones:<br>
+Los usuarios parecen preferir la aplicación de Carlota Braun por el mero hecho de que tiene varias funciones, y que es una aplicación muy sencilla de usar.<br>
 Por el contrario, y aunque la aplicación de Planada también es sencilla de usar, no tiene ninguna función.
 
 
